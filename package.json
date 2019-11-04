@@ -1,0 +1,19 @@
+{
+  "name": "codejam-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iharson/codejam-canvas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iharson/codejam-canvas/issues"
+  },
+  "homepage": "https://github.com/Iharson/codejam-canvas#readme"
+}
