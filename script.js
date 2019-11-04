@@ -2,7 +2,7 @@ window.onload = function () {
 
     const piskelSize = 512;
 
-    //4x4
+    //4x4 canvas
 
     function fourxfour() {
         fetch("./data/4x4.json")
